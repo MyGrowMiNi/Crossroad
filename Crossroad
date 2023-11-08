@@ -1,6 +1,6 @@
 getgenv().Debug = true
 getgenv().GoldenPerks = {"Soldier",}
-local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/wxzex/mmsautostratcontinuation/main/autostratscode", true))() 
+local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/banbuskox/dfhtyxvzexrxgfdzgzfdvfdz/main/ckmhjvskfkmsStratFun2", true))()
 TDS:Loadout("Militant", "Pyromancer", "Commander", "Ace Pilot", "Farm") 
 TDS:Map("Crossroads", true, "Hardcore")
 TDS:Place('Farm', 4.26190710067749, 0.999995231628418, 28.385282516479492, 0, 0, 8.7, false, 0, 0, 0, false)
