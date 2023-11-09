@@ -1,6 +1,7 @@
 getgenv().Debug = true
 getgenv().GoldenPerks = {"Soldier",}
 local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/banbuskox/dfhtyxvzexrxgfdzgzfdvfdz/main/ckmhjvskfkmsStratFun2", true))()
+TDS:Loadout("Ace Pilot", "Soldier", "Military Base", "nil", "nil") 
 TDS:Map("Wrecked Battlefield", true, "Hardcore")
 TDS:Skip(1, 0, 10)
 TDS:Place('Ace Pilot', 6.402982711791992, 3.599977731704712, 19.020751953125, 1, 0, 4)
